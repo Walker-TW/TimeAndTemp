@@ -24,6 +24,12 @@ Then i need to learn some python....
   - View npm-esque packages that could do this?
   - The example listed in your own personal folders could be a way to at least have a look at this
 
+## Dev things to do
+
+- Move globals to .env file and look up the industry standard way to import that stuff
+
+- Output the asked for information and then find a way to force it to display?
+
 ## BONUS
 
 Look over grabbing football scores?

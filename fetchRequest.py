@@ -1,6 +1,7 @@
+from globals import *
 import requests
 
-resp = requests.get('https://jsonplaceholder.typicode.com/todos/1')
+resp = requests.get(WEATHER_FETCH_URL)
 
 verJSON = resp.json()
 
